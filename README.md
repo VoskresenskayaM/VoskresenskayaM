@@ -1,7 +1,9 @@
-### Hi there 👋
+<div id="header" aling="center">
+  <h1>Привет, меня зовут Мария</h1
+  <h3>Я начинающий веб-разработчик</h3>
+</div>
 
-<!--
-**VoskresenskayaM/VoskresenskayaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
