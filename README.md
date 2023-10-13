@@ -16,6 +16,6 @@
 -->
 
 ### Мой стек
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="js" whith="40" heigth="40">&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="js" width="40" height="40">&nbsp;
           
 
