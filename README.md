@@ -3,7 +3,7 @@
   <h3>Я начинающий веб-разработчик</h3>
 </div>
 
-## Обо мне
+### Обо мне
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Мой стек
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"title="js" whith="40" heigth="40"/>&nbsp;
+### Мой стек
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="js" whith="40" heigth="40">&nbsp;
           
 
