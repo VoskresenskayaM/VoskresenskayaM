@@ -3,9 +3,7 @@
   <h3>Я начинающий веб-разработчик</h3>
 </div>
 
-
-
-Here are some ideas to get you started:
+### Обо мне
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,6 +17,6 @@ Here are some ideas to get you started:
 
 ### Мой стек
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" title="js" whith="40" heigth="40"/> &nbsp;
 
 
