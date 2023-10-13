@@ -4,15 +4,10 @@
 </div>
 
 ### Обо мне
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Я начал изучать фронтенд-разработку в 2022 году. Закончила курс «Веб-разработчик» в Яндекс.Практикуме.
+- 🌱 Я хочу стать профессиональным Fullstack-разработчиком, который сможет реализовать любой проект максимально эффективно и качественно.
+- 👯 Мне бы хотелось, чтобы у людей остались положительные впечатления от веб-интерфейсов, которые я создаю.
+- 🤔 Хочу работать в команде профессионалов, которые по-настоящему увлечены своим делом.
 
 ### Мой стек
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
@@ -30,7 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="css" width="40" height="40"/>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vmm459@gmail.com&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
           
 
