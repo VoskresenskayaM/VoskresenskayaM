@@ -27,9 +27,7 @@
 
 ### Мои контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vmm459) &nbsp;
-vmm459@gmail.com
-
-<a href="mailto:vmm459@gmail.com">Текст ссылки</a>
+<a href="mailto:vmm459@gmail.com">vmm459@gmail.com</a>
           
 
           
