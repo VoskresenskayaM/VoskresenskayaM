@@ -25,6 +25,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="css" width="40" height="40"/>
 
+### Мои контакты
+
+https://t.me/vmm459
+vmm459@gmail.com
+
 
 
           
