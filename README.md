@@ -27,8 +27,8 @@
 
 ### Мои контакты
 
-https://t.me/vmm459
-vmm459@gmail.com
+- https://t.me/vmm459
+- vmm459@gmail.com
 
 
 
