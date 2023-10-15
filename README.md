@@ -26,9 +26,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="css" width="40" height="40"/>
 
 ### Мои контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vmm459)
-- https://t.me/vmm459
-- vmm459@gmail.com
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vmm459) &nbsp;
+vmm459@gmail.com
 
 
 
