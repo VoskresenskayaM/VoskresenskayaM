@@ -30,7 +30,8 @@
 vmm459@gmail.com
 <img src="icons8-gmail-48.png" title="css" width="40" height="40"/>
 
-
+[code:]html[:code]&lt;a href="vmm459@gmail.com"&gt;Link text&lt;/a&gt;
+[/code]
 
           
 
